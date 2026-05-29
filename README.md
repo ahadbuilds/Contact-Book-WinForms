@@ -86,7 +86,7 @@ Search contacts using:
 
 | Add Contact | Edit Contact |
 |------------|------------|
-| ![](screenshots/add-contact.png) | ![](screenshots/edit-contact.png) |
+| ![](screenshots/add-contact.png) | ![](screenshots/editcontact.png) |
 
 ### Search Contacts
 
@@ -98,7 +98,7 @@ Search contacts using:
 
 | Add Group | Edit Group |
 |------------|------------|
-| ![](screenshots/add-group.png) | ![](screenshots/edit-group.png) |
+| ![](screenshots/add-group.png) | ![](screenshots/editgroup.png) |
 
 | Family Group | Friends Group | Relatives Group |
 |------------|------------|------------|
