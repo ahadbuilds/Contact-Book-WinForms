@@ -68,29 +68,49 @@ Search contacts using:
 
 ## Screenshots
 
-### User Registration & Login
+### Authentication
 
-![Login](screenshots/login.png)
+| Sign Up | Login |
+|----------|----------|
+| ![](screenshots/signup.png) | ![](screenshots/login.png) |
+
+---
 
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Profile Management
-
-![Profile](screenshots/profile-management.png)
-
-### Password Management
-
-![Password](screenshots/password-management.png)
+---
 
 ### Contact Management
 
-![Contacts](screenshots/contact-management.png)
+| Add Contact | Edit Contact |
+|------------|------------|
+| ![](screenshots/add-contact.png) | ![](screenshots/edit-contact.png) |
+
+### Search Contacts
+
+![Search Contact](screenshots/search-contact.png)
+
+---
 
 ### Group Management
 
-![Groups](screenshots/group-management.png)
+| Add Group | Edit Group |
+|------------|------------|
+| ![](screenshots/add-group.png) | ![](screenshots/edit-group.png) |
+
+| Family Group | Friends Group | Relatives Group |
+|------------|------------|------------|
+| ![](screenshots/family-group.png) | ![](screenshots/friends-group.png) | ![](screenshots/relatives-group.png) |
+
+---
+
+### Profile Management
+
+| Profile | Password Change |
+|------------|------------|
+| ![](screenshots/profile-management.png) | ![](screenshots/password-management.png) |
 
 ---
 
